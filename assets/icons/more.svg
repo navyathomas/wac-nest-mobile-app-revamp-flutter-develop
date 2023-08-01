@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="41" viewBox="0 0 41 41">
+  <defs>
+    <filter id="Ellipse_688" x="4" y="17" width="11" height="11" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.333"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_688-2" x="15" y="17" width="11" height="11" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-opacity="0.333"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_688-3" x="26" y="17" width="11" height="11" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-3"/>
+      <feFlood flood-opacity="0.333"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_62591" data-name="Group 62591" transform="translate(-310 -112)">
+    <g id="Group_62457" data-name="Group 62457" transform="translate(204.779 -3)">
+      <g transform="matrix(1, 0, 0, 1, 105.22, 115)" filter="url(#Ellipse_688)">
+        <circle id="Ellipse_688-4" data-name="Ellipse 688" cx="2.5" cy="2.5" r="2.5" transform="translate(7 18)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 105.22, 115)" filter="url(#Ellipse_688-2)">
+        <circle id="Ellipse_688-5" data-name="Ellipse 688" cx="2.5" cy="2.5" r="2.5" transform="translate(18 18)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 105.22, 115)" filter="url(#Ellipse_688-3)">
+        <circle id="Ellipse_688-6" data-name="Ellipse 688" cx="2.5" cy="2.5" r="2.5" transform="translate(29 18)" fill="#fff"/>
+      </g>
+    </g>
+    <rect id="Rectangle_17128" data-name="Rectangle 17128" width="41" height="41" rx="11" transform="translate(310 112)" fill="none"/>
+  </g>
+</svg>

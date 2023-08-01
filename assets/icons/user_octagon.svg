@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bold_user-octagon" data-name="vuesax/bold/user-octagon" transform="translate(-620 -188)">
+    <g id="user-octagon">
+      <path id="Vector" d="M0,0H24V24H0Z" transform="translate(620 188)" fill="none" opacity="0"/>
+      <path id="Vector-2" data-name="Vector" d="M16.59,3.85,10.65.42A3.163,3.163,0,0,0,7.5.42L1.57,3.85A3.149,3.149,0,0,0,0,6.58v6.84a3.174,3.174,0,0,0,1.57,2.73l5.94,3.43a3.163,3.163,0,0,0,3.15,0l5.94-3.43a3.149,3.149,0,0,0,1.57-2.73V6.58A3.192,3.192,0,0,0,16.59,3.85ZM9.08,5.34A2.33,2.33,0,1,1,6.75,7.67,2.326,2.326,0,0,1,9.08,5.34Zm2.68,9.32H6.4a1,1,0,0,1-.83-1.57A4.209,4.209,0,0,1,9.08,11.4a4.209,4.209,0,0,1,3.51,1.69A1.009,1.009,0,0,1,11.76,14.66Z" transform="translate(622.92 190)" fill="#ff7cd7"/>
+    </g>
+  </g>
+</svg>

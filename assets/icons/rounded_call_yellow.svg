@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+  <g id="Group_62632" data-name="Group 62632" transform="translate(-294 -588)">
+    <g id="Ellipse_724" data-name="Ellipse 724" transform="translate(294 588)" fill="none" stroke="#fff" stroke-width="2" opacity="0.3">
+      <circle cx="27.5" cy="27.5" r="27.5" stroke="none"/>
+      <circle cx="27.5" cy="27.5" r="26.5" fill="none"/>
+    </g>
+    <path id="Icon_metro-phone" data-name="Icon metro-phone" d="M18.013,16.49c-1.4,1.4-1.4,2.808-2.808,2.808s-2.808-1.4-4.211-2.808-2.808-2.808-2.808-4.211,1.4-1.4,2.808-2.808S8.186,3.856,6.782,3.856,2.571,8.067,2.571,8.067c0,2.808,2.884,8.5,5.615,11.23s8.423,5.615,11.23,5.615c0,0,4.211-2.808,4.211-4.211s-4.211-5.615-5.615-4.211Z" transform="translate(308.4 601.747)" fill="#ffba00"/>
+  </g>
+</svg>

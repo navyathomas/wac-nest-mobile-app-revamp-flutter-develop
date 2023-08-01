@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>248877361095-at3538lupg1525bphuua84003uis7d7q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.248877361095-at3538lupg1525bphuua84003uis7d7q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAa8d3QINlLrLgByryS75nRh9IftEfDKlQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>248877361095</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wac.NestMatrimony</string>
+	<key>PROJECT_ID</key>
+	<string>nest-app-5f1f5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nest-app-5f1f5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:248877361095:ios:cb6ad9449690fcf7c35be2</string>
+	<key>DATABASE_URL</key>
+	<string>https://nest-app-5f1f5.firebaseio.com</string>
+</dict>
+</plist>

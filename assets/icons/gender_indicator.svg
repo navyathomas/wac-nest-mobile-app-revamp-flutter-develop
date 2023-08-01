@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_62330" data-name="Group 62330" transform="translate(-60 -89)">
+    <path id="Path_36232" data-name="Path 36232" d="M18,0A18,18,0,1,1,0,18,18,18,0,0,1,18,0" transform="translate(60 89)" fill="#ffdef4"/>
+    <g id="Group_62692" data-name="Group 62692" transform="translate(-2.5 9.95)">
+      <path id="Icon_ionic-md-female" data-name="Icon ionic-md-female" d="M15.467,6.046A3.8,3.8,0,1,0,11.039,9.79v1.318H9.14v1.265h1.9V14.06H12.3V12.373h1.9V11.108H12.3V9.79A3.8,3.8,0,0,0,15.467,6.046Zm-6.327,0a2.531,2.531,0,1,1,2.531,2.531A2.535,2.535,0,0,1,9.14,6.046Z" transform="translate(64.845 88.895)" fill="#c60d89"/>
+      <path id="Icon_ionic-md-male" data-name="Icon ionic-md-male" d="M13.076,3.375H9.7V4.64h2.481L9.37,7.451a3.8,3.8,0,1,0,.9.9l2.81-2.813V8.015h1.265V3.375Zm-5.905,9.7A2.531,2.531,0,1,1,9.7,10.546,2.535,2.535,0,0,1,7.171,13.076Z" transform="matrix(0.719, -0.695, 0.695, 0.719, 72.27, 97.831)" fill="#c60d89"/>
+    </g>
+  </g>
+</svg>

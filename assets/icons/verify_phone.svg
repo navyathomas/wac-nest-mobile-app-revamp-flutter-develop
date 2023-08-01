@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="33" viewBox="0 0 27 33">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#deedff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_62781" data-name="Group 62781" transform="translate(-31 -2909)">
+    <g id="Group_62780" data-name="Group 62780" transform="translate(1)">
+      <g id="Rectangle_17266" data-name="Rectangle 17266" transform="translate(30 2909)" fill="#fff" stroke="#565f6c" stroke-width="1">
+        <rect width="22" height="33" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="21" height="32" rx="3.5" fill="none"/>
+      </g>
+      <rect id="Rectangle_17268" data-name="Rectangle 17268" width="10" height="3" rx="1" transform="translate(36 2909)" fill="#565f6c"/>
+    </g>
+    <rect id="Rectangle_17266-2" data-name="Rectangle 17266" width="20" height="29" rx="3" transform="translate(32 2912)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_17269" data-name="Rectangle 17269" width="4" height="3" rx="1" transform="translate(34 2925)" fill="#b0cdf0"/>
+    <rect id="Rectangle_17272" data-name="Rectangle 17272" width="4" height="3" rx="1" transform="translate(34 2930)" fill="#b0cdf0"/>
+    <rect id="Rectangle_17275" data-name="Rectangle 17275" width="4" height="3" rx="1" transform="translate(34 2935)" fill="#b0cdf0"/>
+    <rect id="Rectangle_17270" data-name="Rectangle 17270" width="4" height="3" rx="1" transform="translate(40 2925)" fill="#b0cdf0"/>
+    <rect id="Rectangle_17273" data-name="Rectangle 17273" width="4" height="3" rx="1" transform="translate(40 2930)" fill="#b0cdf0"/>
+    <rect id="Rectangle_17276" data-name="Rectangle 17276" width="4" height="3" rx="1" transform="translate(40 2935)" fill="#b0cdf0"/>
+    <rect id="Rectangle_17271" data-name="Rectangle 17271" width="4" height="3" rx="1" transform="translate(46 2925)" fill="#d7e7fa"/>
+    <rect id="Rectangle_17274" data-name="Rectangle 17274" width="4" height="3" rx="1" transform="translate(46 2930)" fill="#b0cdf0"/>
+    <rect id="Rectangle_17277" data-name="Rectangle 17277" width="4" height="3" rx="1" transform="translate(46 2935)" fill="#b0cdf0"/>
+    <g id="Group_62779" data-name="Group 62779" transform="translate(1 5)">
+      <circle id="Ellipse_63350" data-name="Ellipse 63350" cx="4.5" cy="4.5" r="4.5" transform="translate(45 2916)" fill="#fff"/>
+      <g id="vuesax_bold_shield-tick" data-name="vuesax/bold/shield-tick" transform="translate(41 2913)">
+        <path id="Vector" d="M9.993,1.478,6.327.105a2.32,2.32,0,0,0-1.38,0L1.28,1.478A2.122,2.122,0,0,0,0,3.325v5.4A2.213,2.213,0,0,0,.787,10.3l3.667,2.74a2.079,2.079,0,0,0,2.353,0l3.667-2.74a2.226,2.226,0,0,0,.787-1.573v-5.4A2.109,2.109,0,0,0,9.993,1.478ZM7.953,5.212,5.087,8.078a.5.5,0,0,1-.707,0L3.313,7a.5.5,0,0,1,.707-.707l.72.72L7.253,4.5a.5.5,0,1,1,.7.713Z" transform="translate(2.367 1.268)" fill="#41aeff"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H16V16H0Z" transform="translate(16 16) rotate(180)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

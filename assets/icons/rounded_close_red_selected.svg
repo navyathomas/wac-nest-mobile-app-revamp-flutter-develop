@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff5c5c"/>
+      <stop offset="1" stop-color="#ff7979"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_62629" data-name="Group 62629" transform="translate(-94 -588)">
+    <g id="Ellipse_721" data-name="Ellipse 721" transform="translate(94 588)" stroke="#fc5c5c" stroke-width="2" fill="url(#linear-gradient)">
+      <circle cx="27.5" cy="27.5" r="27.5" stroke="none"/>
+      <circle cx="27.5" cy="27.5" r="26.5" fill="none"/>
+    </g>
+    <path id="Union_3" data-name="Union 3" d="M14.672,19.653l-4.7-4.7-4.7,4.7a2,2,0,0,1-2.829,0L.3,17.5a2,2,0,0,1,0-2.829l4.7-4.7L.3,5.278A2,2,0,0,1,.3,2.45L2.45.3A2,2,0,0,1,5.279.3l4.7,4.7,4.7-4.7A2,2,0,0,1,17.5.3l2.154,2.154a2,2,0,0,1,0,2.829l-4.7,4.7,4.7,4.7a2,2,0,0,1,0,2.829L17.5,19.653a2,2,0,0,1-2.828,0Z" transform="translate(111.525 605.526)" fill="#fff"/>
+  </g>
+</svg>

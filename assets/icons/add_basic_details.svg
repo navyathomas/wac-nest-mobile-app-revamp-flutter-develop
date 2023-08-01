@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58.594" height="63.34" viewBox="0 0 58.594 63.34">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_91266" data-name="Path 91266" d="M34,0h-.789c.379-.1,4.388,3.269,7.806,5.915C43.526,8.034,48.853,12.047,49,12.6v.279C49,16.742,45.866,17,42,17H34a7,7,0,0,1-7-7V7A7,7,0,0,1,34,0Z" transform="translate(25 44.998)" fill="#950553"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_91267" data-name="Path 91267" d="M7,0H33.211c.379-.1,4.388,3.269,7.806,5.915C43.526,8.034,48.853,12.047,49,12.6V50a7,7,0,0,1-7,7H7a7,7,0,0,1-7-7V7A7,7,0,0,1,7,0Z" transform="translate(31 102)" fill="#950553"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e499c3"/>
+      <stop offset="1" stop-color="#ffeaf6"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_67056" data-name="Group 67056" transform="translate(-23.366 -95.66)">
+    <rect id="Rectangle_19205" data-name="Rectangle 19205" width="49" height="55" rx="7" transform="translate(23.366 105.01) rotate(-11)" fill="#fdb7df"/>
+    <path id="Path_91265" data-name="Path 91265" d="M7,0H33.211c.379-.1,4.388,3.269,7.806,5.915C43.526,8.034,48.853,12.047,49,12.6V50a7,7,0,0,1-7,7H7a7,7,0,0,1-7-7V7A7,7,0,0,1,7,0Z" transform="translate(31 102)" fill="#950553"/>
+    <g id="Mask_Group_25463" data-name="Mask Group 25463" transform="translate(6 57.002)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_19204" data-name="Rectangle 19204" width="49" height="57" rx="7" transform="translate(58 1)" fill="#fdb7df"/>
+    </g>
+    <g id="Mask_Group_25464" data-name="Mask Group 25464" clip-path="url(#clip-path-2)">
+      <g id="Group_67048" data-name="Group 67048" transform="translate(7.604 75.81) rotate(13)" opacity="0.6">
+        <ellipse id="Ellipse_63511" data-name="Ellipse 63511" cx="24.5" cy="24.5" rx="24.5" ry="24.5" transform="translate(69.033 51.634) rotate(130)" fill="#d86da9"/>
+        <ellipse id="Ellipse_63512" data-name="Ellipse 63512" cx="21.5" cy="21.5" rx="21.5" ry="21.5" transform="translate(91.777 27.64) rotate(130)" fill="#b5538a"/>
+      </g>
+    </g>
+    <path id="Vector" d="M23,0H4.6A4.575,4.575,0,0,0,0,4.554v16.73a4.588,4.588,0,0,0,4.6,4.57H5.766a4.608,4.608,0,0,1,3.251,1.334l2.622,2.592a3.082,3.082,0,0,0,4.324,0l2.622-2.592a4.608,4.608,0,0,1,3.251-1.334H23a4.588,4.588,0,0,0,4.6-4.57V4.554A4.575,4.575,0,0,0,23,0ZM13.8,5.444a2.991,2.991,0,0,1,.107,5.981h-.23A2.983,2.983,0,0,1,10.8,8.434,3.017,3.017,0,0,1,13.8,5.444ZM18.018,19.46a8.236,8.236,0,0,1-8.434,0c-2.04-1.349-2.04-3.588,0-4.953a8.236,8.236,0,0,1,8.434,0C20.058,15.872,20.058,18.1,18.018,19.46Z" transform="translate(41.699 119)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

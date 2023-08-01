@@ -1,0 +1,8 @@
+<svg id="vuesax_linear_crown" data-name="vuesax/linear/crown" xmlns="http://www.w3.org/2000/svg" width="38.035" height="38.035" viewBox="0 0 38.035 38.035">
+  <g id="crown" transform="translate(0 0)">
+    <path id="Vector" d="M0,18.356V3.174C0,1.066,1.22.559,2.71,2.048l4.1,4.1a1.578,1.578,0,0,0,2.235,0L14.723.464a1.578,1.578,0,0,1,2.235,0l5.689,5.689a1.578,1.578,0,0,0,2.235,0l4.1-4.1c1.49-1.49,2.71-.983,2.71,1.125v15.2A7.486,7.486,0,0,1,23.772,26.3H7.924A7.951,7.951,0,0,1,0,18.356Z" transform="translate(3.17 5.876)" fill="none" stroke="#565f6c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Vector-2" data-name="Vector" d="M0,0H38.035V38.035H0Z" fill="none" opacity="0"/>
+    <line id="Line_1690" data-name="Line 1690" x2="13" transform="translate(8.517 24.5)" fill="none" stroke="#565f6c" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_1691" data-name="Line 1691" x2="2" transform="translate(25.517 24.5)" fill="none" stroke="#565f6c" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

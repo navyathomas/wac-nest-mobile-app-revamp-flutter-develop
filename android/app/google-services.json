@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "248877361095",
+    "firebase_url": "https://nest-app-5f1f5.firebaseio.com",
+    "project_id": "nest-app-5f1f5",
+    "storage_bucket": "nest-app-5f1f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248877361095:android:45bb624c70b28e74",
+        "android_client_info": {
+          "package_name": "com.nestmatrimony.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248877361095-j8q76vc5su2dbfkfpf7vq5quf6ord927.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBys0MhpRjW0xLi9pwNrzfVCSq-xQaRoMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248877361095-j8q76vc5su2dbfkfpf7vq5quf6ord927.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248877361095-9c1o5mg4alv73n44bkeeutm2shjg1brr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wac.NestMatrimony.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248877361095:android:0805acded471a0a2c35be2",
+        "android_client_info": {
+          "package_name": "com.nestmatrimony.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248877361095-j8q76vc5su2dbfkfpf7vq5quf6ord927.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBys0MhpRjW0xLi9pwNrzfVCSq-xQaRoMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248877361095-j8q76vc5su2dbfkfpf7vq5quf6ord927.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248877361095-9c1o5mg4alv73n44bkeeutm2shjg1brr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wac.NestMatrimony.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248877361095:android:70e7ca3fadd56011c35be2",
+        "android_client_info": {
+          "package_name": "com.nestmatrimony.app.stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248877361095-j8q76vc5su2dbfkfpf7vq5quf6ord927.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBys0MhpRjW0xLi9pwNrzfVCSq-xQaRoMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248877361095-j8q76vc5su2dbfkfpf7vq5quf6ord927.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248877361095-9c1o5mg4alv73n44bkeeutm2shjg1brr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wac.NestMatrimony.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

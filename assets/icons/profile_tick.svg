@@ -1,0 +1,8 @@
+<svg id="vuesax_linear_profile-tick" data-name="vuesax/linear/profile-tick" xmlns="http://www.w3.org/2000/svg" width="38.035" height="38.035" viewBox="0 0 38.035 38.035">
+  <g id="profile-tick" transform="translate(0)">
+    <path id="Vector" d="M7.29,14.057a2.881,2.881,0,0,0-.523,0,7.028,7.028,0,1,1,.523,0Z" transform="translate(11.981 3.17)" fill="none" stroke="#565f6c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Vector-2" data-name="Vector" d="M10.816,13.675a14.5,14.5,0,0,1-7.94-2.187c-3.835-2.567-3.835-6.751,0-9.3A15.33,15.33,0,0,1,12.91.129" transform="translate(8.185 20.889)" fill="none" stroke="#565f6c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H38.035V38.035H0Z" transform="translate(38.035 38.035) rotate(180)" fill="none" opacity="0"/>
+  </g>
+  <path id="Vector-4" data-name="Vector" d="M6.207.426l1.136,2.29a.788.788,0,0,0,.568.421l2.529.366a.762.762,0,0,1,.421,1.3L9.028,6.583a.757.757,0,0,0-.22.678l.44,2.51a.76.76,0,0,1-1.1.806L5.9,9.386a.815.815,0,0,0-.715,0L2.927,10.577a.757.757,0,0,1-1.1-.806l.44-2.51a.774.774,0,0,0-.22-.678L.233,4.805A.762.762,0,0,1,.655,3.5l2.529-.366a.716.716,0,0,0,.568-.421L4.869.426A.738.738,0,0,1,6.207.426Z" transform="translate(20.222 22.185)" fill="none" stroke="#565f6c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>

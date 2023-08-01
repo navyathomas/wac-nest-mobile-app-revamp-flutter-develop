@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="58" viewBox="0 0 58 58">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.404" y1="1" x2="0.411" y2="0.157" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff2f2f"/>
+      <stop offset="1" stop-color="#ff9a9a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.5" x2="0.5" y2="1.3" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#febaba"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_62666" data-name="Group 62666" transform="translate(-97 -87)">
+    <rect id="Rectangle_17177" data-name="Rectangle 17177" width="58" height="58" rx="16" transform="translate(97 87)" fill="#febaba"/>
+    <rect id="Rectangle_17174" data-name="Rectangle 17174" width="56" height="56" rx="15" transform="translate(98 88)" fill="url(#linear-gradient)"/>
+    <path id="Subtraction_6" data-name="Subtraction 6" d="M4151,721.986h0A15,15,0,0,0,4136,707h-26a15,15,0,0,0-15,14.751l0-1.752a15,15,0,0,1,15-15h26a15,15,0,0,1,15,15Z" transform="translate(-3997 -617)" fill="#f77"/>
+    <path id="Subtraction_7" data-name="Subtraction 7" d="M41,16.986H15A14.9,14.9,0,0,1,4.393,12.592,14.9,14.9,0,0,1,0,1.986V.234A14.929,14.929,0,0,0,4.393,10.592,14.9,14.9,0,0,0,15,14.986H41a14.9,14.9,0,0,0,10.607-4.393A14.9,14.9,0,0,0,56,.015V1.986a14.9,14.9,0,0,1-4.393,10.606A14.9,14.9,0,0,1,41,16.986Z" transform="translate(98 126.985)" fill="#db0000"/>
+    <g id="Group_62664" data-name="Group 62664" transform="translate(0 4.507)">
+      <g id="vuesax_bold_location" data-name="vuesax/bold/location" transform="translate(-317 -90.124)" opacity="0.282">
+        <path id="Vector" d="M21.327,8.165A10.512,10.512,0,0,0,10.822,0H10.81A10.51,10.51,0,0,0,.3,8.153C-1.121,14.441,2.73,19.767,6.215,23.118a6.608,6.608,0,0,0,9.2,0C18.9,19.767,22.753,14.453,21.327,8.165Zm-10.5,6.106a3.839,3.839,0,1,1,3.839-3.839A3.838,3.838,0,0,1,10.822,14.271Z" transform="translate(431.802 190.133)" fill="#fd6d6d"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H29.248V29.248H0Z" transform="translate(428 188)" fill="none" opacity="0"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H29.248V29.248H0Z" transform="translate(457.248 217.248) rotate(180)" fill="none" opacity="0"/>
+      </g>
+      <g id="vuesax_bold_location-2" data-name="vuesax/bold/location" transform="translate(-317 -91.507)">
+        <path id="Vector-4" data-name="Vector" d="M21.327,8.165A10.512,10.512,0,0,0,10.822,0H10.81A10.51,10.51,0,0,0,.3,8.153C-1.121,14.441,2.73,19.767,6.215,23.118a6.608,6.608,0,0,0,9.2,0C18.9,19.767,22.753,14.453,21.327,8.165Zm-10.5,6.106a3.839,3.839,0,1,1,3.839-3.839A3.838,3.838,0,0,1,10.822,14.271Z" transform="translate(431.802 190.133)" fill="url(#linear-gradient-2)"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H29.248V29.248H0Z" transform="translate(428 188)" fill="none" opacity="0"/>
+        <path id="Vector-6" data-name="Vector" d="M0,0H29.248V29.248H0Z" transform="translate(457.248 217.248) rotate(180)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

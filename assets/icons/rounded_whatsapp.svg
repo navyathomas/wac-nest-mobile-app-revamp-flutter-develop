@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+  <g id="Group_67102" data-name="Group 67102" transform="translate(-27 -588)">
+    <g id="Ellipse_720" data-name="Ellipse 720" transform="translate(27 588)" fill="none" stroke="#fff" stroke-width="2" opacity="0.3">
+      <circle cx="27.5" cy="27.5" r="27.5" stroke="none"/>
+      <circle cx="27.5" cy="27.5" r="26.5" fill="none"/>
+    </g>
+    <path id="Subtraction_58" data-name="Subtraction 58" d="M17,22.5H6A5.506,5.506,0,0,1,.5,17V6A5.506,5.506,0,0,1,6,.5H17A5.506,5.506,0,0,1,22.5,6V17A5.506,5.506,0,0,1,17,22.5ZM7.811,12.287l-3.495,4.64H18.682l-5.317-6.455-3.088,4.5Z" transform="translate(43 604)" fill="#00e039"/>
+  </g>
+</svg>

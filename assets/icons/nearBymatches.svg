@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.035" height="38.035" viewBox="0 0 38.035 38.035">
+  <g id="location-tick" transform="translate(0 0)">
+    <path id="Vector" d="M.385,10.285C3.507-3.439,23.839-3.423,26.946,10.3c1.822,8.051-3.185,14.865-7.575,19.081a8.231,8.231,0,0,1-11.426,0C3.57,25.166-1.438,18.336.385,10.285Z" transform="translate(5.352 3.17)" fill="none" stroke="#565f6c" stroke-width="2"/>
+    <path id="Vector-2" data-name="Vector" d="M0,3.962,2.377,6.339,8.716,0" transform="translate(14.659 14.263)" fill="none" stroke="#565f6c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H38.035V38.035H0Z" transform="translate(38.035 38.035) rotate(180)" fill="none" opacity="0"/>
+  </g>
+</svg>

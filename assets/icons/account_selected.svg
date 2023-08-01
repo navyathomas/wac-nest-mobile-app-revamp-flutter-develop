@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.517" y1="0.083" x2="0.245" y2="0.875" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6489f"/>
+      <stop offset="1" stop-color="#950053"/>
+    </linearGradient>
+  </defs>
+  <g id="vuesax_bold_frame" data-name="vuesax/bold/frame" transform="translate(-108 -252)">
+    <g id="frame">
+      <path id="Union_19" data-name="Union 19" d="M823.96,736.59a3.62,3.62,0,0,1,.01-6.44,9.928,9.928,0,0,1,10.15,0,3.624,3.624,0,0,1,0,6.44,9.855,9.855,0,0,1-10.16,0Zm5.23-9.1h-.049a.82.82,0,0,0-.221,0,4.725,4.725,0,1,1,.29,0Z" transform="translate(-709.04 -464)" fill="url(#linear-gradient)"/>
+      <path id="Vector" d="M0,0H24V24H0Z" transform="translate(132 276) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

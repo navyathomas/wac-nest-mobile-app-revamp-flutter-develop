@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65.968" height="61.373" viewBox="0 0 65.968 61.373">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_91262" data-name="Path 91262" d="M38.415,54.373c-19.5-18.025-29.55-27.185-29.55-38.121A16.022,16.022,0,0,1,25.118,0a17.761,17.761,0,0,1,13.3,6.206A17.761,17.761,0,0,1,51.713,0,16.022,16.022,0,0,1,67.966,16.252c0,11.23-10.047,20.39-29.55,38.121" transform="translate(145.05 254.511)" fill="#950553"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.648" y1="0.078" x2="0.842" y2="1.358" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d86da9"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_67058" data-name="Group 67058" transform="translate(-26.637 -296.511)">
+    <g id="Group_67053" data-name="Group 67053" transform="translate(-120.411 42)">
+      <path id="Path_91255" data-name="Path 91255" d="M33.983,57.624C14.479,40.189,2.954,29.847,2.954,15.958V14.184A17.08,17.08,0,0,0,0,23.641c0,11.228,10.047,20.39,29.55,37.824l4.433-3.841" transform="translate(147.048 254.419)" fill="#fdb7df"/>
+      <path id="Path_91261" data-name="Path 91261" d="M38.415,54.373c-19.5-18.025-29.55-27.185-29.55-38.121A16.022,16.022,0,0,1,25.118,0a17.761,17.761,0,0,1,13.3,6.206A17.761,17.761,0,0,1,51.713,0,16.022,16.022,0,0,1,67.966,16.252c0,11.23-10.047,20.39-29.55,38.121" transform="translate(145.05 254.511)" fill="#950553"/>
+      <g id="Mask_Group_25461" data-name="Mask Group 25461" clip-path="url(#clip-path)">
+        <g id="Group_67049" data-name="Group 67049" transform="translate(52.549 -29.582)">
+          <g id="Group_67048" data-name="Group 67048" opacity="0.6">
+            <circle id="Ellipse_63511" data-name="Ellipse 63511" cx="24.5" cy="24.5" r="24.5" transform="matrix(0.643, 0.766, -0.766, 0.643, 161.646, 269.433)" fill="#d86da9"/>
+            <circle id="Ellipse_63512" data-name="Ellipse 63512" cx="21.5" cy="21.5" r="21.5" transform="matrix(0.643, 0.766, -0.766, 0.643, 134.306, 249.296)" fill="#b5538a"/>
+          </g>
+          <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M16.207,18.213c4.847.044,7.866-3.646,7.711-9.106S21.234,0,16.207,0s-8.3,3.612-8.095,9.106S11.36,18.169,16.207,18.213ZM24.3,20.236H20.817a11.008,11.008,0,0,1-9.22,0H8.112A8.094,8.094,0,0,0,.018,28.331l4.938,7.435c0,1.676,9.575,6.289,11.251,6.289H29.262A3.036,3.036,0,0,0,32.3,39.019l.1-10.688A8.094,8.094,0,0,0,24.3,20.236Z" transform="translate(114.859 296.411)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

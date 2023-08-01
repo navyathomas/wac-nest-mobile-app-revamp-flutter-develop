@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_62750" data-name="Group 62750" transform="translate(-325 -132)">
+    <path id="Icon_feather-chevron-right" data-name="Icon feather-chevron-right" d="M13.5,17.216l4.108-4.108L13.5,9" transform="translate(324.642 133.892)" fill="none" stroke="#8695a7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <g id="Ellipse_702" data-name="Ellipse 702" transform="translate(325 132)" fill="none" stroke="#dbe2ea" stroke-width="1.5">
+      <circle cx="15" cy="15" r="15" stroke="none"/>
+      <circle cx="15" cy="15" r="14.25" fill="none"/>
+    </g>
+  </g>
+</svg>

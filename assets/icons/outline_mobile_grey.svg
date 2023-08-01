@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.24" height="20.24" viewBox="0 0 20.24 20.24">
+  <g id="vuesax_outline_mobile" data-name="vuesax/outline/mobile" transform="translate(-108 -380)">
+    <g id="mobile" transform="translate(108 380)">
+      <path id="Vector" d="M9.909,18.132H4.849C1.13,18.132,0,17,0,13.283V4.849C0,1.13,1.13,0,4.849,0h5.06c3.719,0,4.849,1.13,4.849,4.849v8.433C14.759,17,13.628,18.132,9.909,18.132ZM4.849,1.265c-3.019,0-3.584.573-3.584,3.584v8.433c0,3.011.565,3.584,3.584,3.584h5.06c3.019,0,3.584-.573,3.584-3.584V4.849c0-3.011-.565-3.584-3.584-3.584Z" transform="translate(2.741 1.054)" fill="#8695a7"/>
+      <path id="Vector-2" data-name="Vector" d="M4.006,1.265H.633A.637.637,0,0,1,0,.633.637.637,0,0,1,.633,0H4.006a.637.637,0,0,1,.633.633A.637.637,0,0,1,4.006,1.265Z" transform="translate(7.801 4.006)" fill="#8695a7"/>
+      <path id="Vector-3" data-name="Vector" d="M1.94,3.879a1.94,1.94,0,1,1,1.94-1.94A1.94,1.94,0,0,1,1.94,3.879Zm0-2.623a.675.675,0,1,0,.675.675A.677.677,0,0,0,1.94,1.257Z" transform="translate(8.18 12.869)" fill="#8695a7"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H20.24V20.24H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_62779" data-name="Group 62779" transform="translate(-41 -2913)">
+    <circle id="Ellipse_63350" data-name="Ellipse 63350" cx="6.5" cy="6.5" r="6.5" transform="translate(47 2918)" fill="#fff"/>
+    <g id="vuesax_bold_shield-tick" data-name="vuesax/bold/shield-tick" transform="translate(-259 2725)">
+      <path id="Vector" d="M14.99,2.217,9.49.157a3.479,3.479,0,0,0-2.07,0l-5.5,2.06A3.183,3.183,0,0,0,0,4.987v8.1a3.32,3.32,0,0,0,1.18,2.36l5.5,4.11a3.119,3.119,0,0,0,3.53,0l5.5-4.11a3.339,3.339,0,0,0,1.18-2.36v-8.1A3.163,3.163,0,0,0,14.99,2.217Zm-3.06,5.6-4.3,4.3a.748.748,0,0,1-1.06,0L4.97,10.5a.75.75,0,0,1,1.06-1.06l1.08,1.08,3.77-3.77a.75.75,0,1,1,1.05,1.07Z" transform="translate(303.55 189.902)" fill="#00dd9b"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(324 212) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

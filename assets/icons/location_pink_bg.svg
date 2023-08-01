@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.171" y1="0.849" x2="0.919" y2="0.185" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a70073"/>
+      <stop offset="1" stop-color="#de78be"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_62586" data-name="Group 62586" transform="translate(-16 -393)">
+    <circle id="Ellipse_712" data-name="Ellipse 712" cx="13" cy="13" r="13" transform="translate(16 393)" fill="url(#linear-gradient)"/>
+    <g id="vuesax_bold_location" data-name="vuesax/bold/location" transform="translate(-406.672 210.328)">
+      <path id="Vector" d="M11.189,4.284A5.515,5.515,0,0,0,5.678,0H5.671A5.514,5.514,0,0,0,.16,4.277c-.748,3.3,1.272,6.093,3.1,7.851a3.467,3.467,0,0,0,4.827,0C9.917,10.37,11.937,7.583,11.189,4.284Zm-5.511,3.2A2.014,2.014,0,1,1,7.692,5.473,2.014,2.014,0,0,1,5.678,7.487Z" transform="translate(429.995 189.119)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H15.345V15.345H0Z" transform="translate(428 188)" fill="none" opacity="0"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H15.345V15.345H0Z" transform="translate(443.345 203.345) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

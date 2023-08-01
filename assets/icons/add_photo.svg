@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61.197" height="66.677" viewBox="0 0 61.197 66.677">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19093" data-name="Rectangle 19093" width="47" height="57" rx="7" transform="translate(164 298)" fill="#950053"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.648" y1="0.078" x2="0.842" y2="1.358" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#d86da9"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_66994" data-name="Group 66994" transform="translate(-164 -293.162)">
+    <rect id="Rectangle_19090" data-name="Rectangle 19090" width="47" height="57" rx="7" transform="translate(179.593 293.162) rotate(14)" fill="#ffb7df"/>
+    <rect id="Rectangle_19083" data-name="Rectangle 19083" width="47" height="57" rx="7" transform="translate(164 298)" fill="#950053"/>
+    <g id="Mask_Group_25432" data-name="Mask Group 25432" clip-path="url(#clip-path)">
+      <g id="Group_66920" data-name="Group 66920" transform="translate(-29.245 -5.718)">
+        <rect id="Rectangle_19091" data-name="Rectangle 19091" width="61.398" height="61.398" rx="5" transform="translate(149.252 369.844) rotate(-47)" fill="#b5538a"/>
+        <rect id="Rectangle_19092" data-name="Rectangle 19092" width="61.398" height="61.398" rx="5" transform="translate(192.641 358.754) rotate(-47)" fill="#d86da9"/>
+      </g>
+      <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M16.207,18.213c4.847.044,7.866-3.646,7.711-9.106S21.234,0,16.207,0s-8.3,3.612-8.095,9.106S11.36,18.169,16.207,18.213ZM24.3,20.236H20.817a11.008,11.008,0,0,1-9.22,0H8.112A8.094,8.094,0,0,0,.018,28.331l-.1,10.688a3.036,3.036,0,0,0,3.035,3.035H29.262A3.036,3.036,0,0,0,32.3,39.019l.1-10.688A8.094,8.094,0,0,0,24.3,20.236Z" transform="translate(171.343 314.486)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

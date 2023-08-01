@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c60089"/>
+      <stop offset="1" stop-color="#ff4dd6"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_62631" data-name="Group 62631" transform="translate(-227 -588)">
+    <g id="Ellipse_723" data-name="Ellipse 723" transform="translate(227 588)" stroke="#cb0f90" stroke-width="2" fill="url(#linear-gradient)">
+      <circle cx="27.5" cy="27.5" r="27.5" stroke="none"/>
+      <circle cx="27.5" cy="27.5" r="26.5" fill="none"/>
+    </g>
+    <path id="Icon_metro-heart" data-name="Icon metro-heart" d="M21.829,3.856c-2.745,0-5.107,2.233-6.2,4.565-1.095-2.332-3.457-4.565-6.2-4.565a6.858,6.858,0,0,0-6.855,6.855c0,7.7,10.291,14.49,13.057,14.53s13.056-7.079,13.056-14.53A6.858,6.858,0,0,0,21.829,3.856Z" transform="translate(238.943 602.618)" fill="#fff"/>
+  </g>
+</svg>
